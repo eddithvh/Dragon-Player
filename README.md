@@ -3,8 +3,7 @@
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-<h1 align="center">![Discord: eddit#0001](https://img.shields.io/badge/Discord:%20eddit#0001-Add%20me%20for%20any%20help-blue)</h1>
-
+![Discord: eddit#0001](https://img.shields.io/badge/Discord:%20eddit#0001-Add%20me%20for%20any%20help-blue)
 
 # Dragon Player Screenshot of UI
 
