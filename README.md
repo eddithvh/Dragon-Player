@@ -8,12 +8,12 @@ If you need any help add me on discord: eddit#0001
 
 ## Dragon-Player features:
 1. Playlist
-  2. Controls: Back, Pause, Next, Volume, Replay,
-    3. Changing AVATAR Image,
-      4. Changing ALBUM Image,
-        5. Synchronized / Movable trackbar,
-          6. Animation for Playlist Open/Hide (Volume controls same)
-            7. **Minimalistic** playing in process UI (see the photo below)
+2. Controls - Back, Pause, Next, Volume, Replay
+4. Changing AVATAR Image
+5. Changing ALBUM Image
+6. Synchronized / Movable trackbar
+7. Animation for Playlist Open/Hide (Volume controls same)
+8. **Minimalistic** playing in process UI (see the photo below)
             
             
  
