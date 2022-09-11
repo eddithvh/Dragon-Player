@@ -3,7 +3,10 @@
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![Discord: eddit#0001]
+> • Add me on discord for any help:
+```
+**eddit#0001**
+``` 
 
 # Dragon Player Screenshot of UI
 
