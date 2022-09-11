@@ -1,9 +1,9 @@
 ## 🎶 Dragon-Player # Source Code by eddit#0001
-#MP3 Music Player
+# 🎼 MP3 Music Player
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![Discord](https://img.shields.io/badge/discord:__eddit#0001-eddit#0001-red)
+![Discord: eddit#0001]
 
 # Dragon Player Screenshot of UI
 
